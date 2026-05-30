@@ -1,0 +1,7 @@
+name = "qec-api"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "QEC_SESSIONS"
+id = "YOUR_KV_NAMESPACE_ID"
